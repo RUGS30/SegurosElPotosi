@@ -1,0 +1,14 @@
+@media (max-width:992px ) {
+    .txt-sini{
+        display: none;
+    }
+    
+}
+@media (max-width:480px ) {
+    .txt-sini{
+        display: none;
+    }
+    
+}
+
+
